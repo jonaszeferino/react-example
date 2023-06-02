@@ -12,7 +12,7 @@ export const MainHeader = (props) => (
       target="_blank"
       rel="noopener noreferrer"
     >
-      Isso é um componente que está sendo importado por meio do App
+      Isso é um componente que está sendo importado por meio do App -
     </a>
-  </header>
+  </header>˜
 );
