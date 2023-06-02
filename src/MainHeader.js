@@ -14,5 +14,5 @@ export const MainHeader = (props) => (
     >
       Isso é um componente que está sendo importado por meio do App -
     </a>
-  </header>˜
+  </header>
 );
