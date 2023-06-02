@@ -13,7 +13,7 @@ export class MainHeaderClass extends Component {
         <img src={logo} className="App-logo" alt="logo" />
         <p>{this.props.message}</p>
         <button onClick={() => this.setState({ count: this.state.count + 1 })}>
-          Incrementar
+          Incrementar 123
         </button>
         <p>Valor atual: {this.state.count}</p>
         <a
